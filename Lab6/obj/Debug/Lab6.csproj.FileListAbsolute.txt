@@ -1,0 +1,11 @@
+E:\programming\study\csharp\Lab6\bin\Debug\Lab6.exe.config
+E:\programming\study\csharp\Lab6\bin\Debug\Lab6.exe
+E:\programming\study\csharp\Lab6\bin\Debug\Lab6.pdb
+E:\programming\study\csharp\Lab6\bin\Debug\Newtonsoft.Json.dll
+E:\programming\study\csharp\Lab6\bin\Debug\Newtonsoft.Json.xml
+E:\programming\study\csharp\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+E:\programming\study\csharp\Lab6\obj\Debug\Lab6.csproj.SuggestedBindingRedirects.cache
+E:\programming\study\csharp\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+E:\programming\study\csharp\Lab6\obj\Debug\Lab6.csproj.CopyComplete
+E:\programming\study\csharp\Lab6\obj\Debug\Lab6.exe
+E:\programming\study\csharp\Lab6\obj\Debug\Lab6.pdb
